@@ -1,0 +1,15 @@
+[submodule "yyid.rb"]
+	path = yyid.rb
+	url = https://github.com/janlelis/yyid.rb.git
+[submodule "yyid.js"]
+	path = yyid.js
+	url = https://github.com/janlelis/yyid.js.git
+[submodule "yyid.ex"]
+	path = yyid.ex
+	url = https://github.com/janlelis/yyid.ex.git
+[submodule "yyid.go"]
+	path = yyid.go
+	url = https://github.com/janlelis/yyid.go.git
+[submodule "yyid.rs"]
+	path = yyid.rs
+	url = https://github.com/asaaki/yyid.rs.git
