@@ -13,3 +13,6 @@
 [submodule "yyid.rs"]
 	path = yyid.rs
 	url = https://github.com/asaaki/yyid.rs.git
+[submodule "yyid-node.js"]
+	path = yyid-node.js
+	url = https://github.com/janlelis/yyid-node.js
