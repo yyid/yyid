@@ -23,6 +23,3 @@ The YYID software does nothing more than generating a random string. In any prog
 - YYID for [Ruby](https://github.com/janlelis/yyid.rb)
 - YYID for [Rust](https://github.com/asaaki/yyid.rs)
 
-## MMM
-
-http://moremicromodules.org
